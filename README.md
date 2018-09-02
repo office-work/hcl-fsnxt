@@ -1,2 +1,2 @@
 # office - vfp
-for a db client.
+for personal use only.
